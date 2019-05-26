@@ -1,0 +1,1 @@
+This CV2 project can help us integrate any haar-cascade trained .xml file with this script  and detect the objects they want to.

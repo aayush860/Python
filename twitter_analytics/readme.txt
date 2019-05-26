@@ -1,0 +1,1 @@
+This script was Witten to gather data and see how twitter API works.
